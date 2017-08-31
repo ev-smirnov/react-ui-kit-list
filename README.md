@@ -1,6 +1,6 @@
-<img align="right" height="260" src="https://grommet.github.io/img/grommet.svg">
+<img align="right" height="100" src="https://grommet.github.io/img/grommet.svg">
 
-###Grommet
+### Grommet
 The most advanced UX framework for enterprise applications.
 [Github](https://github.com/grommet/grommet)
 [Website](https://grommet.github.io/)
